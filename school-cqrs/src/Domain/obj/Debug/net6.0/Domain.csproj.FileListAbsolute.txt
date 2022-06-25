@@ -1,0 +1,12 @@
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/bin/Debug/net6.0/Domain.dll
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/bin/Debug/net6.0/Domain.pdb
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.dll
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/Domain.pdb
+/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Domain/obj/Debug/net6.0/ref/Domain.dll
