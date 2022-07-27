@@ -8,11 +8,31 @@
     ".NETCoreApp,Version=v6.0": {
       "Application/1.0.0": {
         "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.3.58",
           "Domain": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
         },
         "runtime": {
           "Application.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.12.10": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.12.10"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.3.58": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.12.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.58"
+          }
         }
       },
       "MediatR/10.0.1": {
@@ -66,6 +86,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/3.7.12.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-53teS6IJr7RE+U7z6MR3JgMUFsn8HzgMamPhunw15zSrUf94sRND2xeTRc2Z1gkYOJWlWuYngWEIjDc7n1D8iA==",
+      "path": "awssdk.core/3.7.12.10",
+      "hashPath": "awssdk.core.3.7.12.10.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.3.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SleWRP9tN7P21DSCxcUsZB3uIU2iRopNfmYMvavmwK2/fjlKwyq0n02UEujYCHYcr8O8ExoYq4McboSdF8ZvNg==",
+      "path": "awssdk.dynamodbv2/3.7.3.58",
+      "hashPath": "awssdk.dynamodbv2.3.7.3.58.nupkg.sha512"
     },
     "MediatR/10.0.1": {
       "type": "package",

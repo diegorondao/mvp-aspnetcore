@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "s6FT4M/J2x507LiHikIVJtmnYDuvkene8MfyTiDoIoxFqdGu9S8u1UuA6SWuvtlwGSK/82I/gfYQYNAuLTdU8g==",
+  "dgSpecHash": "+jTlJRd4u+tLyq8TQ6agas8Jinwnf7wUMJatVWjJsIFxUWG62/g6gcwhnPhvzv8gvi7c+jWejm8T8Eovrc61DQ==",
   "success": true,
   "projectFilePath": "/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/Infrastructure/Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/diego/.nuget/packages/awssdk.core/3.7.12.10/awssdk.core.3.7.12.10.nupkg.sha512",
+    "/home/diego/.nuget/packages/awssdk.dynamodbv2/3.7.3.58/awssdk.dynamodbv2.3.7.3.58.nupkg.sha512"
+  ],
   "logs": []
 }

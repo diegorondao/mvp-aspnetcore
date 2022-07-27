@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wsdm/GjIiycIxSRCk+tcw+64bWVEgn0jPb/YLYAxN9+aFffjCIxTcxHH99Stkl27mhfrvffsAdXMFRlVZkFoSw==",
+  "dgSpecHash": "TvMMDPwJ7/JeVje5UvdjHCnj2B+ZxhCLTVE3Mt2c/ARjlwUYn+uNp3/27RNfx+/RHxxcaUg6nt5pE8sjKOLpgA==",
   "success": true,
   "projectFilePath": "/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/tests/Tests.Unit.Domain/Tests.Unit.Domain.csproj",
   "expectedPackageFiles": [

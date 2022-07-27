@@ -1,4 +1,4 @@
-using Application.Services.Queries.GetCategories;
+using Application.Queries.GetCategories;
 using MediatR;
 using System;
 using System.Collections.Generic;

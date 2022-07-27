@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T9pIjm11Y12PmbEwym0fiAG5GnckJj2sHZMqEOHkyQtAiYykqykAvJSEXkhYmzghzIuKjUGo/zAGjoK0aVcleg==",
+  "dgSpecHash": "XKbrLN7mppVwLryyX8iXmu5x0YUCPEORzxiZzFX8/j9ngGQdLssnrxFNxNC17fOxXJvXmO88kgYrp64iBN0pNg==",
   "success": true,
   "projectFilePath": "/home/diego/Workspace/Diversos/mvp-aspnetcore/school-cqrs/src/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/diego/.nuget/packages/awssdk.core/3.7.12.10/awssdk.core.3.7.12.10.nupkg.sha512",
+    "/home/diego/.nuget/packages/awssdk.dynamodbv2/3.7.3.58/awssdk.dynamodbv2.3.7.3.58.nupkg.sha512",
     "/home/diego/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
     "/home/diego/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/home/diego/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",

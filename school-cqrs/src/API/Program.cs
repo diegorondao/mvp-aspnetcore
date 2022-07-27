@@ -6,7 +6,8 @@ using MediatR;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddMediatR(typeof(GetCategoriesQueryHandler));
+// builder.Services.AddMediatR(typeof(Startup).GetTypeInfo().Assembly);
+// builder.Services.AddMediatR(typeof(GetCategoriesQueryHandler));
  //Category
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 

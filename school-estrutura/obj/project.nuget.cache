@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jID7bN2JqCr+a7mgsQCL7lp0zhmA+K/7OkhsRiQ8v5DVSy2cu31CkElM0TowNR6/xLVAlNxo2YCrfGOiRn7pzg==",
+  "success": true,
+  "projectFilePath": "/home/diego/Workspace/Diversos/mvp-aspnetcore/school-estrutura/school-estrutura.csproj",
+  "expectedPackageFiles": [
+    "/home/diego/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/diego/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/diego/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
